@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Czech"
+given-names: "Piotr"
+title: "Universe simulation"
+version: 0.1.0
+date-released: 2026-07-06
+url: "https://github.com/Xeinaemm/universe"
